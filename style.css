@@ -20,5 +20,14 @@ header {
 }
 
 .logo {
-    color: green;
+    color: rgb(42, 203, 42);
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    padding: 5px;
+    background-color: rgb(210, 210, 210);
 }

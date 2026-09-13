@@ -6,6 +6,19 @@
 
 .container {
     width: 90vw;
-    margin: 24px auto;
+    margin: auto;
     max-width: 1200px;
+}
+
+.content {
+    margin: 24px auto;
+}
+
+header {
+    background-color: gray;
+    padding: 4px;
+}
+
+.logo {
+    color: green;
 }
